@@ -1,0 +1,14 @@
+name: pretty_dio_logger
+description: Pretty Dio logger is a Dio interceptor that logs network calls in a pretty, easy to read format.
+version: 1.2.0-hcifork.0
+homepage: https://github.com/Milad-Akarie/pretty_dio_logger
+publish_to: none
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  dio:
+    git:
+      url: https://github.com/zoocityboy/hci.git
+      path: dio
+      ref: main

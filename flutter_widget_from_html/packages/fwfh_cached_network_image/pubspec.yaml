@@ -12,6 +12,7 @@ dependencies:
     git:
       url: https://github.com/zoocityboy/hci.git
       path: flutter_cached_network_image/cached_network_image
+      ref: main
   flutter:
     sdk: flutter
   flutter_cache_manager:

@@ -1,0 +1,79 @@
+name: flutter_widget_from_html
+version: 0.10.1
+description: Flutter package to render html as widgets that supports hyperlink, image, audio, video, iframe and many other tags.
+homepage: https://github.com/daohoangson/flutter_widget_from_html
+
+environment:
+  flutter: ">=3.7.0"
+  sdk: ">=2.19.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # flutter_widget_from_html_core: ^0.10.1
+  flutter_widget_from_html_core:
+    git:
+      url: https://github.com/zoocityboy/hci.git
+      path: flutter_widget_from_html/packages/core
+      ref: main
+  fwfh_cached_network_image: #^0.7.0+5
+    git:
+      url: https://github.com/zoocityboy/hci.git
+      path: flutter_widget_from_html/packages/fwfh_cached_network_image
+      ref: main
+  fwfh_chewie: #^0.7.1+2
+    git:
+      url: https://github.com/zoocityboy/hci.git
+      path: flutter_widget_from_html/packages/fwfh_chewie
+      ref: main
+  fwfh_just_audio: #^0.9.0+2
+    git:
+      url: https://github.com/zoocityboy/hci.git
+      path: flutter_widget_from_html/packages/fwfh_just_audio
+      ref: main
+  fwfh_svg: #^0.8.0+2
+    git:
+      url: https://github.com/zoocityboy/hci.git
+      path: flutter_widget_from_html/packages/fwfh_svg
+      ref: main
+  fwfh_url_launcher: #^0.9.0+2
+    git:
+      url: https://github.com/zoocityboy/hci.git
+      path: flutter_widget_from_html/packages/fwfh_url_launcher
+      ref: main
+  fwfh_webview: #^0.7.0+2
+    git:
+      url: https://github.com/zoocityboy/hci.git
+      path: flutter_widget_from_html/packages/fwfh_webview
+      ref: main
+  html: ^0.15.0
+
+dependency_overrides:
+  flutter_widget_from_html_core:
+    path: ../core
+  fwfh_cached_network_image:
+    path: ../fwfh_cached_network_image
+  fwfh_chewie:
+    path: ../fwfh_chewie
+  fwfh_just_audio:
+    path: ../fwfh_just_audio
+  fwfh_svg:
+    path: ../fwfh_svg
+  fwfh_text_style:
+    path: ../fwfh_text_style
+  fwfh_url_launcher:
+    path: ../fwfh_url_launcher
+  fwfh_webview:
+    path: ../fwfh_webview
+
+dev_dependencies:
+  file:
+  flutter_test:
+    sdk: flutter
+  golden_toolkit: ^0.15.0
+  lint: any
+  mocktail: ^0.3.0
+
+flutter:
+  assets:
+    - test/images/

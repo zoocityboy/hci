@@ -1,0 +1,27 @@
+name: cached_network_image_web
+description: Web implementation of CachedNetworkImage
+version: 1.0.3
+homepage: https://github.com/Baseflow/flutter_cached_network_image
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_cache_manager:
+    git:
+      url: https://github.com/zoocityboy/hci.git
+      path: flutter_cache_manager/flutter_cache_manager
+      ref: main
+  cached_network_image_platform_interface:
+    git:
+      url: https://github.com/zoocityboy/hci.git
+      path: flutter_cached_network_image/cached_network_image_platform_interface
+      ref: main
+
+dev_dependencies:
+  file: ">=6.1.4 <8.0.0"
+  flutter_lints: ^2.0.1
+  flutter_test:
+    sdk: flutter

@@ -1,4 +1,0 @@
-# melos_managed_dependency_overrides: dio
-dependency_overrides:
-  dio:
-    path: ../dio

@@ -1,4 +1,0 @@
-# melos_managed_dependency_overrides: flutter_cache_manager
-dependency_overrides:
-  flutter_cache_manager:
-    path: ../../flutter_cache_manager/flutter_cache_manager

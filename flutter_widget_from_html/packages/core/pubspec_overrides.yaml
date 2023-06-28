@@ -1,4 +1,0 @@
-# melos_managed_dependency_overrides: fwfh_text_style
-dependency_overrides:
-  fwfh_text_style:
-    path: ../fwfh_text_style

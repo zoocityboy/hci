@@ -33,5 +33,5 @@
 ### Dart Patch ###
 # dotenv environment variables file
 .env
-
+**/pubspec_overrides.yaml
 # End of https://www.toptal.com/developers/gitignore/api/dart

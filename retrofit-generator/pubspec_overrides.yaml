@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: dio,retrofit
+dependency_overrides:
+  dio:
+    path: ../dio
+  retrofit:
+    path: ../retrofit

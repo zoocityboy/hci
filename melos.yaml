@@ -1,0 +1,6 @@
+name: sunset_workspace
+packages:
+  - "*"
+  - "*/**"
+ignore:
+  - "**/example"

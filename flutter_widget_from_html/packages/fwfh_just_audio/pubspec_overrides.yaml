@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: flutter_widget_from_html_core,fwfh_text_style
+dependency_overrides:
+  flutter_widget_from_html_core:
+    path: ../core
+  fwfh_text_style:
+    path: ../fwfh_text_style

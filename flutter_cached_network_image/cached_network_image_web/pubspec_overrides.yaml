@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: cached_network_image_platform_interface,flutter_cache_manager
+dependency_overrides:
+  cached_network_image_platform_interface:
+    path: ../cached_network_image_platform_interface
+  flutter_cache_manager:
+    path: ../../flutter_cache_manager/flutter_cache_manager

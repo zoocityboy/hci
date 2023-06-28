@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flutter_cached_network_image/cached_network_image/melos_cached_network_image.iml" filepath="$PROJECT_DIR$/flutter_cached_network_image/cached_network_image/melos_cached_network_image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_cached_network_image/cached_network_image_platform_interface/melos_cached_network_image_platform_interface.iml" filepath="$PROJECT_DIR$/flutter_cached_network_image/cached_network_image_platform_interface/melos_cached_network_image_platform_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_cached_network_image/cached_network_image_web/melos_cached_network_image_web.iml" filepath="$PROJECT_DIR$/flutter_cached_network_image/cached_network_image_web/melos_cached_network_image_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_widget_from_html/demo_app/melos_demo_app.iml" filepath="$PROJECT_DIR$/flutter_widget_from_html/demo_app/melos_demo_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dio/melos_dio.iml" filepath="$PROJECT_DIR$/dio/melos_dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_cache_manager/flutter_cache_manager/melos_flutter_cache_manager.iml" filepath="$PROJECT_DIR$/flutter_cache_manager/flutter_cache_manager/melos_flutter_cache_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_cache_manager/flutter_cache_manager_firebase/melos_flutter_cache_manager_firebase.iml" filepath="$PROJECT_DIR$/flutter_cache_manager/flutter_cache_manager_firebase/melos_flutter_cache_manager_firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_widget_from_html/packages/enhanced/melos_flutter_widget_from_html.iml" filepath="$PROJECT_DIR$/flutter_widget_from_html/packages/enhanced/melos_flutter_widget_from_html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_widget_from_html/packages/core/melos_flutter_widget_from_html_core.iml" filepath="$PROJECT_DIR$/flutter_widget_from_html/packages/core/melos_flutter_widget_from_html_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_widget_from_html/packages/fwfh_cached_network_image/melos_fwfh_cached_network_image.iml" filepath="$PROJECT_DIR$/flutter_widget_from_html/packages/fwfh_cached_network_image/melos_fwfh_cached_network_image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_widget_from_html/packages/fwfh_chewie/melos_fwfh_chewie.iml" filepath="$PROJECT_DIR$/flutter_widget_from_html/packages/fwfh_chewie/melos_fwfh_chewie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_widget_from_html/packages/fwfh_just_audio/melos_fwfh_just_audio.iml" filepath="$PROJECT_DIR$/flutter_widget_from_html/packages/fwfh_just_audio/melos_fwfh_just_audio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_widget_from_html/packages/fwfh_svg/melos_fwfh_svg.iml" filepath="$PROJECT_DIR$/flutter_widget_from_html/packages/fwfh_svg/melos_fwfh_svg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_widget_from_html/packages/fwfh_text_style/melos_fwfh_text_style.iml" filepath="$PROJECT_DIR$/flutter_widget_from_html/packages/fwfh_text_style/melos_fwfh_text_style.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_widget_from_html/packages/fwfh_url_launcher/melos_fwfh_url_launcher.iml" filepath="$PROJECT_DIR$/flutter_widget_from_html/packages/fwfh_url_launcher/melos_fwfh_url_launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flutter_widget_from_html/packages/fwfh_webview/melos_fwfh_webview.iml" filepath="$PROJECT_DIR$/flutter_widget_from_html/packages/fwfh_webview/melos_fwfh_webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pretty_dio_logger/melos_pretty_dio_logger.iml" filepath="$PROJECT_DIR$/pretty_dio_logger/melos_pretty_dio_logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit/melos_retrofit.iml" filepath="$PROJECT_DIR$/retrofit/melos_retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit-generator/melos_retrofit_generator.iml" filepath="$PROJECT_DIR$/retrofit-generator/melos_retrofit_generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_sunset_workspace.iml" filepath="$PROJECT_DIR$/melos_sunset_workspace.iml" />
+    </modules>
+  </component>
+</project>
